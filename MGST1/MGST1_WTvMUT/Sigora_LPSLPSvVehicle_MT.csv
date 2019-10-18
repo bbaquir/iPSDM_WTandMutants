@@ -1,0 +1,11 @@
+"","pathwy.id","description","pvalues","Bonferroni","successes","PathwaySize","N","sample.size"
+"1","R-HSA-73894","DNA Repair",9.777e-19,9.787e-16,45.93,5251.94,603749.5,988.98
+"2","R-HSA-8951664","Neddylation",1.157e-15,1.158e-12,42.88,5578.06,603749.5,988.98
+"3","R-HSA-3700989","Transcriptional Regulation by TP53",8.695e-13,8.704e-10,38.53,5672.03,603749.5,988.98
+"4","R-HSA-195258","RHO GTPase Effectors",2.798e-12,2.801e-09,36.44,5332.88,603749.5,988.98
+"5","R-HSA-8876198","RAB GEFs exchange GTP for GDP on RABs",3.316e-09,3.319e-06,21.29,2548.91,603749.5,988.98
+"6","R-HSA-1169410","Antiviral mechanism by IFN-stimulated genes",1.481e-07,0.0001482,6.16,140.41,603749.5,988.98
+"7","R-HSA-1852241","Organelle biogenesis and maintenance",3.322e-07,0.0003325,17.28,2249.29,603749.5,988.98
+"8","R-HSA-5609975","Diseases associated with glycosylation precursor biosynthesis",4.043e-07,0.0004047,4.74,35.8,603749.5,988.98
+"9","R-HSA-68877","Mitotic Prometaphase",6.067e-07,0.0006073,11.25,933.4,603749.5,988.98
+"10","R-HSA-2151201","Transcriptional activation of mitochondrial biogenesis",8.581e-07,0.000859,10.34,772.94,603749.5,988.98

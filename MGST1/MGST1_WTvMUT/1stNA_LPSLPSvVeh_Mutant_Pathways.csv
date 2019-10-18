@@ -1,0 +1,121 @@
+"Pathway","Total","Expected","Hits","P.Value","FDR"
+"Immune System",1140,439,659,4.73e-48,6.64e-45
+"Cell Cycle, Mitotic",411,158,283,8.73e-38,6.12e-35
+"Cell Cycle",508,196,322,4.23e-32,1.98e-29
+"Adaptive Immune System",654,252,382,2.01e-27,7.04e-25
+"S Phase",122,47,103,7.21e-26,2.02e-23
+"Antigen processing: Ubiquitination & Proteasome degradation",224,86.3,162,1.85e-25,4.33e-23
+"Apoptosis",158,60.9,124,4e-25,8.01e-23
+"Mitotic M-M/G1 phases",266,103,184,5.47e-25,9.58e-23
+"Mitotic G1-G1/S phases",140,53.9,113,6.62e-25,1.03e-22
+"G1/S Transition",113,43.5,95,1.17e-23,1.63e-21
+"Synthesis of DNA",95,36.6,82,3.94e-22,5.02e-20
+"Class I MHC mediated antigen processing & presentation",267,103,179,6.52e-22,7.62e-20
+"Cell Cycle Checkpoints",131,50.5,103,3.7e-21,3.99e-19
+"Toll Like Receptor 4 (TLR4) Cascade",103,39.7,86,4.08e-21,4.08e-19
+"Activated TLR4 signalling",100,38.5,84,5.34e-21,4.99e-19
+"HIV Infection",214,82.5,149,7.93e-21,6.95e-19
+"Cytokine Signaling in Immune system",286,110,186,1.85e-20,1.53e-18
+"TRIF-mediated TLR3/TLR4 signaling ",87,33.5,75,2.88e-20,2.24e-18
+"DNA Replication",102,39.3,84,7.06e-20,5.21e-18
+"Innate Immune System",521,201,299,9.38e-20,6.58e-18
+"M Phase",233,89.8,157,1.17e-19,7.45e-18
+"MyD88-independent cascade ",88,33.9,75,1.22e-19,7.45e-18
+"Toll Like Receptor 3 (TLR3) Cascade",88,33.9,75,1.22e-19,7.45e-18
+"Transcription",149,57.4,109,4.49e-18,2.62e-16
+"DNA Repair",117,45.1,90,1.65e-17,9.27e-16
+"Switching of origins to a post-replicative state",69,26.6,60,7.79e-17,4.04e-15
+"Orc1 removal from chromatin",69,26.6,60,7.79e-17,4.04e-15
+"Toll Like Receptor 7/8 (TLR7/8) Cascade",77,29.7,65,9.78e-17,4.73e-15
+"MyD88 dependent cascade initiated on endosome",77,29.7,65,9.78e-17,4.73e-15
+"Toll Like Receptor 10 (TLR10) Cascade",74,28.5,63,1.23e-16,5.4e-15
+"Toll Like Receptor 5 (TLR5) Cascade",74,28.5,63,1.23e-16,5.4e-15
+"MyD88 cascade initiated on plasma membrane",74,28.5,63,1.23e-16,5.4e-15
+"Removal of licensing factors from origins",71,27.4,61,1.51e-16,6.22e-15
+"Regulation of DNA replication",71,27.4,61,1.51e-16,6.22e-15
+"Toll-Like Receptors Cascades",123,47.4,92,1.76e-16,6.91e-15
+"Signaling by Interleukins",116,44.7,88,1.78e-16,6.91e-15
+"TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation",76,29.3,64,2.18e-16,8.24e-15
+"MyD88:Mal cascade initiated on plasma membrane",81,31.2,67,2.74e-16,9.36e-15
+"Toll Like Receptor TLR1:TLR2 Cascade",81,31.2,67,2.74e-16,9.36e-15
+"Toll Like Receptor TLR6:TLR2 Cascade",81,31.2,67,2.74e-16,9.36e-15
+"Toll Like Receptor 2 (TLR2) Cascade",81,31.2,67,2.74e-16,9.36e-15
+"Regulation of mRNA Stability by Proteins that Bind AU-rich Elements",88,33.9,71,4.67e-16,1.56e-14
+"DNA Replication Pre-Initiation",80,30.8,66,5.97e-16,1.9e-14
+"M/G1 Transition",80,30.8,66,5.97e-16,1.9e-14
+"Activation of NF-kappaB in B Cells",66,25.4,57,9.28e-16,2.83e-14
+"Cyclin A:Cdk2-associated events at S phase entry",66,25.4,57,9.28e-16,2.83e-14
+"Toll Like Receptor 9 (TLR9) Cascade",79,30.4,65,1.3e-15,3.88e-14
+"mRNA Splicing",115,44.3,86,1.77e-15,5.07e-14
+"mRNA Splicing - Major Pathway",115,44.3,86,1.77e-15,5.07e-14
+"Signalling by NGF",290,112,177,2.01e-15,5.64e-14
+"TRAF6 Mediated Induction of proinflammatory cytokines",62,23.9,54,2.46e-15,6.73e-14
+"Signaling by the B Cell Receptor (BCR)",199,76.7,131,2.5e-15,6.73e-14
+"Processing of Capped Intron-Containing Pre-mRNA",119,45.9,88,2.66e-15,7.03e-14
+"Mitotic Metaphase and Anaphase",199,76.7,130,7.91e-15,2.05e-13
+"APC/C-mediated degradation of cell cycle proteins",89,34.3,70,8.94e-15,2.24e-13
+"Regulation of mitotic cell cycle",89,34.3,70,8.94e-15,2.24e-13
+"Assembly of the pre-replicative complex",63,24.3,54,1.08e-14,2.66e-13
+"Mitotic Anaphase",198,76.3,129,1.38e-14,3.32e-13
+"RNA Polymerase II Transcription",107,41.2,80,1.78e-14,4.23e-13
+"Cyclin E associated events during G1/S transition ",65,25,55,1.95e-14,4.55e-13
+"mRNA Processing",140,53.9,98,2.54e-14,5.84e-13
+"Downstream Signaling Events Of B Cell Receptor (BCR)",173,66.7,115,4.75e-14,1.07e-12
+"Regulation of APC/C activators between G1/S and early anaphase",84,32.4,66,5.8e-14,1.29e-12
+"Separation of Sister Chromatids",186,71.7,121,1.1e-13,2.4e-12
+"Nucleotide Excision Repair",53,20.4,46,4.08e-13,8.8e-12
+"Transcription-coupled NER (TC-NER)",47,18.1,42,4.9e-13,1.04e-11
+"APC/C:Cdh1 mediated degradation of Cdc20 and other APC/C:Cdh1 targeted proteins in late mitosis/early G1",76,29.3,60,5.64e-13,1.18e-11
+"SCF(Skp2)-mediated degradation of p27/p21",58,22.4,49,6.12e-13,1.26e-11
+"HIV Life Cycle",128,49.3,89,7.46e-13,1.52e-11
+"Nucleotide-binding domain, leucine rich repeat containing receptor (NLR) signaling pathways",55,21.2,47,7.7e-13,1.52e-11
+"MAP kinase activation in TLR cascade",55,21.2,47,7.7e-13,1.52e-11
+"Late Phase of HIV Life Cycle",108,41.6,78,8.57e-13,1.67e-11
+"CDT1 association with the CDC6:ORC:origin complex",57,22,48,1.36e-12,2.61e-11
+"Activation of APC/C and APC/C:Cdc20 mediated degradation of mitotic proteins",77,29.7,60,1.6e-12,3.04e-11
+"RIG-I/MDA5 mediated induction of IFN-alpha/beta pathways",67,25.8,54,1.79e-12,3.35e-11
+"APC/C:Cdc20 mediated degradation of mitotic proteins",76,29.3,59,3.29e-12,6.07e-11
+"SCF-beta-TrCP mediated degradation of Emi1",53,20.4,45,3.87e-12,7.04e-11
+"NGF signalling via TRKA from the plasma membrane",207,79.8,128,4.95e-12,8.9e-11
+"Autodegradation of Cdh1 by Cdh1:APC/C",68,26.2,54,5.45e-12,9.67e-11
+"Metabolism of RNA",339,131,191,7.39e-12,1.3e-10
+"Host Interactions of HIV factors",141,54.3,94,8.02e-12,1.35e-10
+"Degradation of beta-catenin by the destruction complex",65,25,52,8.02e-12,1.35e-10
+"Signaling by Wnt",65,25,52,8.02e-12,1.35e-10
+"G1/S DNA Damage Checkpoints",62,23.9,50,1.16e-11,1.94e-10
+"p53-Dependent G1/S DNA damage checkpoint",59,22.7,48,1.66e-11,2.71e-10
+"p53-Dependent G1 DNA Damage Response",59,22.7,48,1.66e-11,2.71e-10
+"Cdc20:Phospho-APC/C mediated degradation of Cyclin A",76,29.3,58,1.78e-11,2.87e-10
+"APC/C:Cdc20 mediated degradation of Securin",71,27.4,55,2.11e-11,3.37e-10
+"Disease",945,364,456,3.38e-11,5.33e-10
+"Membrane Trafficking",203,78.2,124,3.54e-11,5.52e-10
+"Vpu mediated degradation of CD4",50,19.3,42,4.24e-11,6.54e-10
+"Signaling by TGF-beta Receptor Complex",70,27,54,4.31e-11,6.57e-10
+"Fcgamma receptor (FCGR) dependent phagocytosis",86,33.1,63,5.11e-11,7.7e-10
+"RNA Polymerase II Pre-transcription Events",62,23.9,49,7.39e-11,1.1e-09
+"Antiviral mechanism by IFN-stimulated genes",69,26.6,53,8.76e-11,1.28e-09
+"ISG15 antiviral mechanism",69,26.6,53,8.76e-11,1.28e-09
+"Ubiquitin-dependent degradation of Cyclin D1",49,18.9,41,9.36e-11,1.33e-09
+"CDK-mediated phosphorylation and removal of Cdc6",49,18.9,41,9.36e-11,1.33e-09
+"Ubiquitin-dependent degradation of Cyclin D",49,18.9,41,9.36e-11,1.33e-09
+"Destabilization of mRNA by AUF1 (hnRNP D0)",54,20.8,44,1.08e-10,1.52e-09
+"G2/M Checkpoints",48,18.5,40,2.06e-10,2.83e-09
+"Regulation of activated PAK-2p34 by proteasome mediated degradation",48,18.5,40,2.06e-10,2.83e-09
+"Developmental Biology",417,161,222,2.33e-10,3.17e-09
+"Interleukin-2 signaling",42,16.2,36,3.43e-10,4.62e-09
+"Ubiquitin Mediated Degradation of Phosphorylated Cdc25A",52,20,42,4.93e-10,6.46e-09
+"p53-Independent DNA Damage Response",52,20,42,4.93e-10,6.46e-09
+"p53-Independent G1/S DNA damage checkpoint",52,20,42,4.93e-10,6.46e-09
+"Transcription of the HIV genome",64,24.7,49,5.59e-10,7.25e-09
+"Gene Expression",1090,418,509,5.93e-10,7.63e-09
+"Regulation of Apoptosis",59,22.7,46,6.55e-10,8.35e-09
+"Stabilization of p53",54,20.8,43,7.14e-10,9.01e-09
+"RNA Polymerase II Promoter Escape",41,15.8,35,7.71e-10,9.16e-09
+"RNA Polymerase II Transcription Pre-Initiation And Promoter Opening",41,15.8,35,7.71e-10,9.16e-09
+"RNA Polymerase II Transcription Initiation",41,15.8,35,7.71e-10,9.16e-09
+"RNA Polymerase II Transcription Initiation And Promoter Clearance",41,15.8,35,7.71e-10,9.16e-09
+"Activation of ATR in response to replication stress",41,15.8,35,7.71e-10,9.16e-09
+"HIV-1 Transcription Initiation",41,15.8,35,7.71e-10,9.16e-09
+"RNA Polymerase II HIV-1 Promoter Escape",41,15.8,35,7.71e-10,9.16e-09
+"NOD1/2 Signaling Pathway",38,14.6,33,9.4e-10,1.11e-08
+"Mitotic G2-G2/M phases",105,40.5,71,1.16e-09,1.35e-08

@@ -1,0 +1,121 @@
+"Pathway","Total","Expected","Hits","P.Value","FDR"
+"Immune System",1140,360,588,3.08e-54,4.32e-51
+"Cytokine Signaling in Immune system",286,90.5,190,4.74e-35,3.32e-32
+"Adaptive Immune System",654,207,340,3.75e-30,1.75e-27
+"Signaling by Interleukins",116,36.7,91,1.58e-25,5.55e-23
+"Apoptosis",158,50,113,2.51e-25,7.03e-23
+"Signaling by the B Cell Receptor (BCR)",199,62.9,126,1.11e-20,2.6e-18
+"Platelet activation, signaling and aggregation",220,69.6,135,2.74e-20,5.49e-18
+"TRIF-mediated TLR3/TLR4 signaling ",87,27.5,69,4.11e-20,7.21e-18
+"Innate Immune System",521,165,261,5.15e-20,8.03e-18
+"MyD88-independent cascade ",88,27.8,69,1.32e-19,1.69e-17
+"Toll Like Receptor 3 (TLR3) Cascade",88,27.8,69,1.32e-19,1.69e-17
+"Toll Like Receptor 4 (TLR4) Cascade",103,32.6,76,1.06e-18,1.23e-16
+"Activated TLR4 signalling",100,31.6,74,2.31e-18,2.49e-16
+"Toll-Like Receptors Cascades",123,38.9,85,8.41e-18,8.43e-16
+"Hemostasis",511,162,250,1.76e-17,1.65e-15
+"Signalling by NGF",290,91.7,159,5.72e-17,5.02e-15
+"Developmental Biology",417,132,209,3.95e-16,3.19e-14
+"Downstream Signaling Events Of B Cell Receptor (BCR)",173,54.7,106,4.32e-16,3.19e-14
+"Interferon Signaling",173,54.7,106,4.32e-16,3.19e-14
+"Interleukin-2 signaling",42,13.3,38,2.1e-15,1.48e-13
+"RIG-I/MDA5 mediated induction of IFN-alpha/beta pathways",67,21.2,52,9.68e-15,6.46e-13
+"Mitotic G1-G1/S phases",140,44.3,87,6.2e-14,3.95e-12
+"Disease",945,299,399,8.45e-14,5.15e-12
+"Activation of NF-kappaB in B Cells",66,20.9,50,1.72e-13,1.01e-11
+"Cell Cycle, Mitotic",411,130,199,1.82e-13,1.02e-11
+"Signaling by TGF-beta Receptor Complex",70,22.1,52,2.18e-13,1.18e-11
+"Fcgamma receptor (FCGR) dependent phagocytosis",86,27.2,60,3.19e-13,1.66e-11
+"Intrinsic Pathway for Apoptosis",37,11.7,33,4.17e-13,1.9e-11
+"Degradation of beta-catenin by the destruction complex",65,20.6,49,4.19e-13,1.9e-11
+"Signaling by Wnt",65,20.6,49,4.19e-13,1.9e-11
+"HIV Infection",214,67.7,118,4.29e-13,1.9e-11
+"NGF signalling via TRKA from the plasma membrane",207,65.5,115,4.34e-13,1.9e-11
+"Toll Like Receptor 7/8 (TLR7/8) Cascade",77,24.4,55,6.69e-13,2.54e-11
+"MyD88 dependent cascade initiated on endosome",77,24.4,55,6.69e-13,2.54e-11
+"Toll Like Receptor 9 (TLR9) Cascade",79,25,56,6.91e-13,2.54e-11
+"MyD88:Mal cascade initiated on plasma membrane",81,25.6,57,7.06e-13,2.54e-11
+"Toll Like Receptor TLR1:TLR2 Cascade",81,25.6,57,7.06e-13,2.54e-11
+"Toll Like Receptor TLR6:TLR2 Cascade",81,25.6,57,7.06e-13,2.54e-11
+"Toll Like Receptor 2 (TLR2) Cascade",81,25.6,57,7.06e-13,2.54e-11
+"TRAF6 Mediated Induction of proinflammatory cytokines",62,19.6,47,8.95e-13,3.14e-11
+"Toll Like Receptor 10 (TLR10) Cascade",74,23.4,53,1.49e-12,4.84e-11
+"Toll Like Receptor 5 (TLR5) Cascade",74,23.4,53,1.49e-12,4.84e-11
+"MyD88 cascade initiated on plasma membrane",74,23.4,53,1.49e-12,4.84e-11
+"TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation",76,24,54,1.54e-12,4.9e-11
+"Cell Cycle",508,161,233,2.02e-12,6.3e-11
+"Class I MHC mediated antigen processing & presentation",267,84.5,138,3.15e-12,9.61e-11
+"Signaling by ERBB4",152,48.1,89,4.16e-12,1.24e-10
+"Signaling by SCF-KIT",142,44.9,84,7.92e-12,2.31e-10
+"Signaling by EGFR in Cancer",181,57.3,101,8.48e-12,2.43e-10
+"GPVI-mediated activation cascade",33,10.4,29,2.7e-11,7.47e-10
+"Transcriptional Regulation of White Adipocyte Differentiation",56,17.7,42,2.74e-11,7.47e-10
+"Signaling by EGFR",179,56.6,99,2.77e-11,7.47e-10
+"Cyclin A:Cdk2-associated events at S phase entry",66,20.9,47,3.89e-11,1.03e-09
+"Host Interactions of HIV factors",141,44.6,82,4.8e-11,1.25e-09
+"Interleukin-3, 5 and GM-CSF signaling",51,16.1,39,5.12e-11,1.31e-09
+"Cyclin E associated events during G1/S transition ",65,20.6,46,8.91e-11,2.23e-09
+"SCF(Skp2)-mediated degradation of p27/p21",58,18.3,42,1.83e-10,4.5e-09
+"Regulation of actin dynamics for phagocytic cup formation",62,19.6,44,1.99e-10,4.8e-09
+"mRNA Splicing",115,36.4,69,2.49e-10,5.82e-09
+"mRNA Splicing - Major Pathway",115,36.4,69,2.49e-10,5.82e-09
+"G1/S Transition",113,35.7,68,2.8e-10,6.44e-09
+"MAP kinase activation in TLR cascade",55,17.4,40,4.04e-10,9.13e-09
+"Removal of licensing factors from origins",71,22.5,48,4.34e-10,9.46e-09
+"Regulation of DNA replication",71,22.5,48,4.34e-10,9.46e-09
+"Switching of origins to a post-replicative state",69,21.8,47,4.45e-10,9.46e-09
+"Orc1 removal from chromatin",69,21.8,47,4.45e-10,9.46e-09
+"TCR signaling",65,20.6,45,4.58e-10,9.59e-09
+"Regulation of mRNA Stability by Proteins that Bind AU-rich Elements",88,27.8,56,5.33e-10,1.1e-08
+"Processing of Capped Intron-Containing Pre-mRNA",119,37.6,70,6.37e-10,1.29e-08
+"Downstream signal transduction",163,51.6,89,6.96e-10,1.39e-08
+"G1/S DNA Damage Checkpoints",62,19.6,43,1.03e-09,2.03e-08
+"Interleukin-1 signaling",45,14.2,34,1.6e-09,3.11e-08
+"Antiviral mechanism by IFN-stimulated genes",69,21.8,46,2.04e-09,3.79e-08
+"ISG15 antiviral mechanism",69,21.8,46,2.04e-09,3.79e-08
+"Axon guidance",292,92.4,140,2.05e-09,3.79e-08
+"Antigen processing: Ubiquitination & Proteasome degradation",224,70.9,113,2.05e-09,3.79e-08
+"SCF-beta-TrCP mediated degradation of Emi1",53,16.8,38,2.19e-09,3.98e-08
+"Membrane Trafficking",203,64.2,104,3.09e-09,5.56e-08
+"Signaling by FGFR",162,51.2,87,3.25e-09,5.77e-08
+"Negative regulators of RIG-I/MDA5 signaling",33,10.4,27,3.64e-09,6.38e-08
+"Interleukin receptor SHC signaling",28,8.86,24,4.5e-09,7.78e-08
+"Ubiquitin Mediated Degradation of Phosphorylated Cdc25A",52,16.4,37,5.03e-09,8.4e-08
+"p53-Independent DNA Damage Response",52,16.4,37,5.03e-09,8.4e-08
+"p53-Independent G1/S DNA damage checkpoint",52,16.4,37,5.03e-09,8.4e-08
+"Destabilization of mRNA by AUF1 (hnRNP D0)",54,17.1,38,5.14e-09,8.47e-08
+"Signaling by FGFR in disease",178,56.3,93,5.99e-09,9.73e-08
+"Signalling to ERKs",37,11.7,29,6.04e-09,9.73e-08
+"mRNA Processing",140,44.3,77,6.45e-09,1.03e-07
+"S Phase",122,38.6,69,8.47e-09,1.33e-07
+"ER-Phagosome pathway",63,19.9,42,1.03e-08,1.61e-07
+"p53-Dependent G1/S DNA damage checkpoint",59,18.7,40,1.11e-08,1.67e-07
+"p53-Dependent G1 DNA Damage Response",59,18.7,40,1.11e-08,1.67e-07
+"Ubiquitin-dependent degradation of Cyclin D1",49,15.5,35,1.12e-08,1.67e-07
+"Ubiquitin-dependent degradation of Cyclin D",49,15.5,35,1.12e-08,1.67e-07
+"Signalling to RAS",27,8.54,23,1.23e-08,1.8e-07
+"Thrombin signalling through proteinase activated receptors (PARs)",34,10.8,27,1.23e-08,1.8e-07
+"APC/C-mediated degradation of cell cycle proteins",89,28.2,54,1.3e-08,1.86e-07
+"Regulation of mitotic cell cycle",89,28.2,54,1.3e-08,1.86e-07
+"Metabolism of mRNA",317,100,147,1.36e-08,1.92e-07
+"Metabolism of RNA",339,107,155,1.78e-08,2.45e-07
+"NOD1/2 Signaling Pathway",38,12,29,1.78e-08,2.45e-07
+"Signaling by ERBB2",164,51.9,86,1.8e-08,2.45e-07
+"DAP12 signaling",164,51.9,86,1.8e-08,2.45e-07
+"Activation of BH3-only proteins",24,7.59,21,2.06e-08,2.78e-07
+"Regulation of activated PAK-2p34 by proteasome mediated degradation",48,15.2,34,2.57e-08,3.43e-07
+"Vpu mediated degradation of CD4",50,15.8,35,2.6e-08,3.44e-07
+"Assembly of the pre-replicative complex",63,19.9,41,4.42e-08,5.76e-07
+"Antigen processing-Cross presentation",78,24.7,48,4.44e-08,5.76e-07
+"L1CAM interactions",112,35.4,63,5e-08,6.43e-07
+"Apoptotic execution  phase",57,18,38,5.24e-08,6.68e-07
+"Vif-mediated degradation of APOBEC3G",55,17.4,37,5.47e-08,6.91e-07
+"Transcriptional activity of SMAD2/SMAD3:SMAD4 heterotrimer",43,13.6,31,5.54e-08,6.94e-07
+"CDK-mediated phosphorylation and removal of Cdc6",49,15.5,34,5.85e-08,7.26e-07
+"TGF-beta receptor signaling activates SMADs",30,9.49,24,6.38e-08,7.84e-07
+"Mitotic M-M/G1 phases",266,84.1,125,6.75e-08,8.23e-07
+"Interferon alpha/beta signaling",68,21.5,43,7.23e-08,8.74e-07
+"M Phase",233,73.7,112,7.47e-08,8.95e-07
+"Antigen Activates B Cell Receptor Leading to Generation of Second Messengers",32,10.1,25,7.91e-08,9.39e-07
+"Synthesis of DNA",95,30,55,9.44e-08,1.11e-06
+"SOS-mediated signalling",14,4.43,14,9.74e-08,1.14e-06

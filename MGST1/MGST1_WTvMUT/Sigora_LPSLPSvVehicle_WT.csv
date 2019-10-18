@@ -1,0 +1,7 @@
+"","pathwy.id","description","pvalues","Bonferroni","successes","PathwaySize","N","sample.size"
+"1","R-HSA-6798695","Neutrophil degranulation",3.015e-42,3.018e-39,176.2,43684.78,603749.5,773.35
+"2","R-HSA-909733","Interferon alpha/beta signaling",3.043e-36,3.046e-33,32.21,830.87,603749.5,773.35
+"3","R-HSA-1660499","Synthesis of PIPs at the plasma membrane",4.745e-17,4.75e-14,18,786,603749.5,773.35
+"4","R-HSA-166016","Toll Like Receptor 4 (TLR4) Cascade",4.011e-12,4.015e-09,11.76,374.27,603749.5,773.35
+"5","R-HSA-193648","NRAGE signals death through JNK",1.774e-10,1.776e-07,15,1255.64,603749.5,773.35
+"6","R-HSA-913531","Interferon Signaling",1.95e-09,1.952e-06,17.03,2007.18,603749.5,773.35
