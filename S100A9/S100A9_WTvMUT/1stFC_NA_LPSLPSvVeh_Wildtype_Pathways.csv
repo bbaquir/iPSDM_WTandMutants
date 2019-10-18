@@ -1,0 +1,121 @@
+"Pathway","Total","Expected","Hits","P.Value","FDR"
+"Death Receptor  Signalling",12,0.167,9,2.83e-15,1.98e-12
+"Extrinsic Pathway for Apoptosis",12,0.167,9,2.83e-15,1.98e-12
+"Dimerization of procaspase-8",9,0.125,7,2.85e-12,9.1e-10
+"Caspase-8 activation",9,0.125,7,2.85e-12,9.1e-10
+"Apoptosis",158,2.2,18,3.25e-12,9.1e-10
+"FasL/ CD95L signaling",5,0.0696,5,4.71e-10,1.1e-07
+"NOD1/2 Signaling Pathway",38,0.529,9,1.56e-09,3.12e-07
+"Nucleotide-binding domain, leucine rich repeat containing receptor (NLR) signaling pathways",55,0.766,10,2.94e-09,5.14e-07
+"TNF signaling",7,0.0975,5,9.67e-09,1.51e-06
+"Intrinsic Pathway for Apoptosis",37,0.515,8,2.9e-08,4.06e-06
+"TRAIL  signaling",5,0.0696,4,1.75e-07,1.75e-05
+"SMAC-mediated dissociation of IAP:caspase complexes ",5,0.0696,4,1.75e-07,1.75e-05
+"SMAC-mediated apoptotic response",5,0.0696,4,1.75e-07,1.75e-05
+"SMAC binds to IAPs ",5,0.0696,4,1.75e-07,1.75e-05
+"TRIF-mediated TLR3/TLR4 signaling ",87,1.21,10,2.79e-07,2.42e-05
+"RIG-I/MDA5 mediated induction of IFN-alpha/beta pathways",67,0.933,9,2.94e-07,2.42e-05
+"MyD88-independent cascade ",88,1.23,10,3.11e-07,2.42e-05
+"Toll Like Receptor 3 (TLR3) Cascade",88,1.23,10,3.11e-07,2.42e-05
+"NF-kB activation through FADD/RIP-1 pathway mediated by caspase-8 and -10",12,0.167,5,3.45e-07,2.55e-05
+"Activated TLR4 signalling",100,1.39,10,1.04e-06,7.29e-05
+"Apoptotic factor-mediated response",7,0.0975,4,1.2e-06,7.98e-05
+"Toll Like Receptor 4 (TLR4) Cascade",103,1.43,10,1.37e-06,8.73e-05
+"p75 NTR receptor-mediated signalling",85,1.18,9,2.3e-06,0.00014
+"Toll-Like Receptors Cascades",123,1.71,10,6.93e-06,0.000405
+"Activation, myristolyation of BID and translocation to mitochondria",4,0.0557,3,1.04e-05,0.000581
+"Caspase-mediated cleavage of cytoskeletal proteins",13,0.181,4,2.29e-05,0.00122
+"Innate Immune System",521,7.26,20,2.35e-05,0.00122
+"Activation of caspases through apoptosome-mediated cleavage",5,0.0696,3,2.56e-05,0.00124
+"Cytochrome c-mediated apoptotic response",5,0.0696,3,2.56e-05,0.00124
+"Platelet activation, signaling and aggregation",220,3.06,12,4.78e-05,0.00224
+"Nuclear Receptor transcription pathway",53,0.738,6,8.41e-05,0.00381
+"Axonal growth inhibition (RHOA activation)",9,0.125,3,0.000207,0.00906
+"Immune System",1140,15.9,30,0.000227,0.00965
+"p75NTR regulates axonogenesis",10,0.139,3,0.000292,0.0119
+"Apoptotic cleavage of cellular proteins",43,0.599,5,0.000298,0.0119
+"IKK complex recruitment mediated by RIP1",25,0.348,4,0.000357,0.0139
+"TRIF-mediated programmed cell death",11,0.153,3,0.000398,0.0151
+"Signalling by NGF",290,4.04,12,0.000637,0.0235
+"Apoptotic execution  phase",57,0.794,5,0.00111,0.0396
+"Axonal growth stimulation",4,0.0557,2,0.00113,0.0396
+"Thrombin signalling through proteinase activated receptors (PARs)",34,0.474,4,0.00119,0.0406
+"TRAF6 mediated NF-kB activation",16,0.223,3,0.00128,0.0429
+"TRAF6 Mediated Induction of proinflammatory cytokines",62,0.864,5,0.00163,0.0519
+"Cell death signalling via NRAGE, NRIF and NADE",62,0.864,5,0.00163,0.0519
+"Response to elevated platelet cytosolic Ca2+",94,1.31,6,0.00189,0.0589
+"JNK (c-Jun kinases) phosphorylation and  activation mediated by activated human TAK1",20,0.279,3,0.00251,0.0766
+"TAK1 activates NFkB by phosphorylation and activation of IKKs complex",22,0.306,3,0.00333,0.0875
+"Signaling by NOTCH1 t(7;9)(NOTCH1:M1580_K2555) Translocation Mutant",74,1.03,5,0.00356,0.0875
+"Signaling by NOTCH1 in Cancer",74,1.03,5,0.00356,0.0875
+"Signaling by NOTCH1 PEST Domain Mutants in Cancer",74,1.03,5,0.00356,0.0875
+"FBXW7 Mutants and NOTCH1 in Cancer",74,1.03,5,0.00356,0.0875
+"Toll Like Receptor 10 (TLR10) Cascade",74,1.03,5,0.00356,0.0875
+"Toll Like Receptor 5 (TLR5) Cascade",74,1.03,5,0.00356,0.0875
+"Signaling by NOTCH1 HD Domain Mutants in Cancer",74,1.03,5,0.00356,0.0875
+"MyD88 cascade initiated on plasma membrane",74,1.03,5,0.00356,0.0875
+"Signaling by NOTCH1 HD+PEST Domain Mutants in Cancer",74,1.03,5,0.00356,0.0875
+"Signaling by NOTCH1",74,1.03,5,0.00356,0.0875
+"NADE modulates death signalling",7,0.0975,2,0.00385,0.0931
+"TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation",76,1.06,5,0.00399,0.0948
+"Toll Like Receptor 7/8 (TLR7/8) Cascade",77,1.07,5,0.00422,0.0969
+"MyD88 dependent cascade initiated on endosome",77,1.07,5,0.00422,0.0969
+"Insulin Processing",24,0.334,3,0.00428,0.0969
+"Toll Like Receptor 9 (TLR9) Cascade",79,1.1,5,0.00471,0.105
+"MyD88:Mal cascade initiated on plasma membrane",81,1.13,5,0.00524,0.11
+"Toll Like Receptor TLR1:TLR2 Cascade",81,1.13,5,0.00524,0.11
+"Toll Like Receptor TLR6:TLR2 Cascade",81,1.13,5,0.00524,0.11
+"Toll Like Receptor 2 (TLR2) Cascade",81,1.13,5,0.00524,0.11
+"TRAF6 mediated IRF7 activation",28,0.39,3,0.00666,0.137
+"MAP kinase activation in TLR cascade",55,0.766,4,0.007,0.142
+"Platelet degranulation ",89,1.24,5,0.00778,0.152
+"Role of DCC in regulating apoptosis",10,0.139,2,0.00803,0.152
+"IRAK2 mediated activation of TAK1 complex upon TLR7/8 or 9 stimulation",10,0.139,2,0.00803,0.152
+"IRAK2 mediated activation of TAK1 complex",10,0.139,2,0.00803,0.152
+"GP1b-IX-V activation signalling",10,0.139,2,0.00803,0.152
+"RIP-mediated NFkB activation via DAI",11,0.153,2,0.00973,0.182
+"Signaling by NOTCH",95,1.32,5,0.0102,0.188
+"Hemostasis",511,7.12,14,0.0106,0.193
+"DAI mediated induction of type I IFNs",13,0.181,2,0.0135,0.234
+"HDL-mediated lipid transport",13,0.181,2,0.0135,0.234
+"NF-kB is activated and signals survival",13,0.181,2,0.0135,0.234
+"p75NTR recruits signalling complexes",13,0.181,2,0.0135,0.234
+"Mitochondrial transcription termination",1,0.0139,1,0.0139,0.238
+"The NLRP3 inflammasome",14,0.195,2,0.0157,0.261
+"TRAF3-dependent IRF activation pathway",14,0.195,2,0.0157,0.261
+"Translocation of GLUT4 to the Plasma Membrane",71,0.989,4,0.0169,0.278
+"NRIF signals cell death from the nucleus",15,0.209,2,0.0179,0.292
+"p75NTR signals via NF-kB",16,0.223,2,0.0203,0.313
+"Cytosolic Iron-sulfur Cluster Assembly",16,0.223,2,0.0203,0.313
+"IRAK1 recruits IKK complex upon TLR7/8 or 9 stimulation",16,0.223,2,0.0203,0.313
+"TRAF6 mediated induction of TAK1 complex",16,0.223,2,0.0203,0.313
+"IRAK1 recruits IKK complex",16,0.223,2,0.0203,0.313
+"Signaling by Interleukins",116,1.62,5,0.0225,0.339
+"Membrane Trafficking",203,2.83,7,0.0226,0.339
+"Proteolytic cleavage of SNARE complex proteins",17,0.237,2,0.0228,0.339
+"Recycling pathway of L1",44,0.613,3,0.023,0.339
+"Interleukin-1 signaling",45,0.627,3,0.0244,0.356
+"Glycogen breakdown (glycogenolysis)",18,0.251,2,0.0254,0.367
+"Activation, translocation and oligomerization of BAX",2,0.0279,1,0.0277,0.379
+"Activation and oligomerization of BAK protein",2,0.0279,1,0.0277,0.379
+"Release of apoptotic factors from the mitochondria",2,0.0279,1,0.0277,0.379
+"Stimulation of the cell death response by PAK-2p34",2,0.0279,1,0.0277,0.379
+"Inflammasomes",19,0.265,2,0.0281,0.379
+"Cytosolic sensors of pathogen-associated DNA ",19,0.265,2,0.0281,0.379
+"Botulinum neurotoxicity",19,0.265,2,0.0281,0.379
+"NOTCH1 Intracellular Domain Regulates Transcription",50,0.696,3,0.032,0.427
+"Lipoprotein metabolism",22,0.306,2,0.037,0.489
+"activated TAK1 mediates p38 MAPK activation",23,0.32,2,0.0402,0.502
+"Activation of BIM and translocation to mitochondria ",3,0.0418,1,0.0412,0.502
+"Formation of apoptosome",3,0.0418,1,0.0412,0.502
+"Activation of BMF and translocation to mitochondria",3,0.0418,1,0.0412,0.502
+"Regulation of gap junction activity",3,0.0418,1,0.0412,0.502
+"c-src mediated regulation of Cx43 function and closure of gap junctions",3,0.0418,1,0.0412,0.502
+"The IPAF inflammasome",3,0.0418,1,0.0412,0.502
+"Breakdown of the nuclear lamina",3,0.0418,1,0.0412,0.502
+"Interconversion of polyamines",3,0.0418,1,0.0412,0.502
+"Transcriptional Regulation of White Adipocyte Differentiation",56,0.78,3,0.0427,0.516
+"Activation of BH3-only proteins",24,0.334,2,0.0434,0.52
+"Cytokine Signaling in Immune system",286,3.98,8,0.0451,0.536
+"Antigen Presentation: Folding, assembly and peptide loading of class I MHC",25,0.348,2,0.0468,0.551
+"Constitutive Signaling by NOTCH1 PEST Domain Mutants",59,0.822,3,0.0486,0.565

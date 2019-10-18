@@ -1,0 +1,121 @@
+"Pathway","Total","Expected","Hits","P.Value","FDR"
+"Immune System",1140,286,516,6.14e-61,8.61e-58
+"Adaptive Immune System",654,164,299,9.79e-34,6.86e-31
+"Cytokine Signaling in Immune system",286,71.8,163,8.07e-32,3.77e-29
+"Apoptosis",158,39.7,108,6.64e-31,2.33e-28
+"Innate Immune System",521,131,246,3.57e-30,1e-27
+"Signaling by Interleukins",116,29.1,84,4.98e-27,1.16e-24
+"Signaling by the B Cell Receptor (BCR)",199,50,118,2.93e-25,5.87e-23
+"Disease",945,237,368,1.93e-24,3.39e-22
+"Toll-Like Receptors Cascades",123,30.9,83,2.22e-23,3.46e-21
+"Toll Like Receptor 4 (TLR4) Cascade",103,25.9,73,1.06e-22,1.49e-20
+"Activated TLR4 signalling",100,25.1,70,2.58e-21,3.28e-19
+"Metabolism of RNA",339,85.1,162,1.63e-20,1.9e-18
+"Downstream Signaling Events Of B Cell Receptor (BCR)",173,43.5,100,2.11e-20,2.28e-18
+"TRIF-mediated TLR3/TLR4 signaling ",87,21.9,60,6.15e-18,6.16e-16
+"Metabolism of mRNA",317,79.6,148,1.24e-17,1.15e-15
+"MyD88-independent cascade ",88,22.1,60,1.47e-17,1.21e-15
+"Toll Like Receptor 3 (TLR3) Cascade",88,22.1,60,1.47e-17,1.21e-15
+"Degradation of beta-catenin by the destruction complex",65,16.3,49,1.84e-17,1.36e-15
+"Signaling by Wnt",65,16.3,49,1.84e-17,1.36e-15
+"Host Interactions of HIV factors",141,35.4,82,3.8e-17,2.66e-15
+"Activation of NF-kappaB in B Cells",66,16.6,49,5.42e-17,3.61e-15
+"G1/S DNA Damage Checkpoints",62,15.6,47,5.76e-17,3.61e-15
+"MyD88:Mal cascade initiated on plasma membrane",81,20.3,56,6.7e-17,3.61e-15
+"Toll Like Receptor TLR1:TLR2 Cascade",81,20.3,56,6.7e-17,3.61e-15
+"Toll Like Receptor TLR6:TLR2 Cascade",81,20.3,56,6.7e-17,3.61e-15
+"Toll Like Receptor 2 (TLR2) Cascade",81,20.3,56,6.7e-17,3.61e-15
+"Mitotic G1-G1/S phases",140,35.2,81,9.08e-17,4.71e-15
+"Switching of origins to a post-replicative state",69,17.3,50,1.41e-16,6.82e-15
+"Orc1 removal from chromatin",69,17.3,50,1.41e-16,6.82e-15
+"p53-Dependent G1/S DNA damage checkpoint",59,14.8,45,1.79e-16,7.87e-15
+"p53-Dependent G1 DNA Damage Response",59,14.8,45,1.79e-16,7.87e-15
+"Signalling by NGF",290,72.8,136,1.8e-16,7.87e-15
+"G1/S Transition",113,28.4,69,3.75e-16,1.59e-14
+"HIV Infection",214,53.7,108,4.74e-16,1.95e-14
+"Destabilization of mRNA by AUF1 (hnRNP D0)",54,13.6,42,5.37e-16,2.15e-14
+"Toll Like Receptor 7/8 (TLR7/8) Cascade",77,19.3,53,6.23e-16,2.36e-14
+"MyD88 dependent cascade initiated on endosome",77,19.3,53,6.23e-16,2.36e-14
+"Removal of licensing factors from origins",71,17.8,50,9.63e-16,3.46e-14
+"Regulation of DNA replication",71,17.8,50,9.63e-16,3.46e-14
+"Assembly of the pre-replicative complex",63,15.8,46,1.47e-15,4.85e-14
+"Ubiquitin-dependent degradation of Cyclin D1",49,12.3,39,1.49e-15,4.85e-14
+"CDK-mediated phosphorylation and removal of Cdc6",49,12.3,39,1.49e-15,4.85e-14
+"Ubiquitin-dependent degradation of Cyclin D",49,12.3,39,1.49e-15,4.85e-14
+"TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation",76,19.1,52,1.75e-15,5.57e-14
+"Regulation of mRNA Stability by Proteins that Bind AU-rich Elements",88,22.1,57,3.33e-15,1.04e-13
+"Toll Like Receptor 9 (TLR9) Cascade",79,19.8,53,3.41e-15,1.04e-13
+"Signaling by EGFR in Cancer",181,45.5,94,4.04e-15,1.21e-13
+"Fcgamma receptor (FCGR) dependent phagocytosis",86,21.6,56,4.13e-15,1.21e-13
+"Regulation of activated PAK-2p34 by proteasome mediated degradation",48,12.1,38,4.8e-15,1.36e-13
+"SCF(Skp2)-mediated degradation of p27/p21",58,14.6,43,5.02e-15,1.36e-13
+"Vpu mediated degradation of CD4",50,12.6,39,5.14e-15,1.36e-13
+"Ubiquitin Mediated Degradation of Phosphorylated Cdc25A",52,13.1,40,5.32e-15,1.36e-13
+"p53-Independent DNA Damage Response",52,13.1,40,5.32e-15,1.36e-13
+"p53-Independent G1/S DNA damage checkpoint",52,13.1,40,5.32e-15,1.36e-13
+"Stabilization of p53",54,13.6,41,5.35e-15,1.36e-13
+"Class I MHC mediated antigen processing & presentation",267,67.1,124,1.05e-14,2.64e-13
+"Toll Like Receptor 10 (TLR10) Cascade",74,18.6,50,1.35e-14,3.21e-13
+"Toll Like Receptor 5 (TLR5) Cascade",74,18.6,50,1.35e-14,3.21e-13
+"MyD88 cascade initiated on plasma membrane",74,18.6,50,1.35e-14,3.21e-13
+"Interleukin-1 signaling",45,11.3,36,1.41e-14,3.29e-13
+"Vif-mediated degradation of APOBEC3G",55,13.8,41,1.6e-14,3.67e-13
+"SCF-beta-TrCP mediated degradation of Emi1",53,13.3,40,1.65e-14,3.67e-13
+"Autodegradation of the E3 ubiquitin ligase COP1",53,13.3,40,1.65e-14,3.67e-13
+"Signaling by EGFR",179,45,92,1.84e-14,4.03e-13
+"APC/C-mediated degradation of cell cycle proteins",89,22.4,56,3.76e-14,8e-13
+"Regulation of mitotic cell cycle",89,22.4,56,3.76e-14,8e-13
+"Cyclin E associated events during G1/S transition ",65,16.3,45,7.32e-14,1.53e-12
+"ER-Phagosome pathway",63,15.8,44,8.47e-14,1.75e-12
+"S Phase",122,30.6,69,8.66e-14,1.76e-12
+"Regulation of Apoptosis",59,14.8,42,1.1e-13,2.2e-12
+"Activation of APC/C and APC/C:Cdc20 mediated degradation of mitotic proteins",77,19.3,50,1.48e-13,2.92e-12
+"Regulation of APC/C activators between G1/S and early anaphase",84,21.1,53,1.56e-13,3.04e-12
+"Regulation of ornithine decarboxylase (ODC)",49,12.3,37,1.59e-13,3.04e-12
+"Cyclin A:Cdk2-associated events at S phase entry",66,16.6,45,1.75e-13,3.31e-12
+"Cell Cycle Checkpoints",131,32.9,72,1.79e-13,3.34e-12
+"NGF signalling via TRKA from the plasma membrane",207,52,100,2.17e-13,4e-12
+"DNA Replication Pre-Initiation",80,20.1,51,2.49e-13,4.48e-12
+"M/G1 Transition",80,20.1,51,2.49e-13,4.48e-12
+"Developmental Biology",417,105,170,3.01e-13,5.35e-12
+"APC/C:Cdc20 mediated degradation of mitotic proteins",76,19.1,49,3.91e-13,6.85e-12
+"Synthesis of DNA",95,23.9,57,4.24e-13,7.34e-12
+"Translation",249,62.5,114,4.47e-13,7.64e-12
+"Cross-presentation of soluble exogenous antigens (endosomes)",48,12.1,36,4.85e-13,8.19e-12
+"Antigen processing: Ubiquitination & Proteasome degradation",224,56.3,105,6.18e-13,1.03e-11
+"Signaling by TGF-beta Receptor Complex",70,17.6,46,7.41e-13,1.22e-11
+"Signaling by SCF-KIT",142,35.7,75,8.56e-13,1.4e-11
+"CDT1 association with the CDC6:ORC:origin complex",57,14.3,40,9.1e-13,1.47e-11
+"Signaling by FGFR in disease",178,44.7,88,1.23e-12,1.96e-11
+"Interferon Signaling",173,43.5,86,1.52e-12,2.39e-11
+"GTP hydrolysis and joining of the 60S ribosomal subunit",201,50.5,96,1.58e-12,2.46e-11
+"TRAF6 Mediated Induction of proinflammatory cytokines",62,15.6,42,1.6e-12,2.46e-11
+"Antigen processing-Cross presentation",78,19.6,49,1.67e-12,2.54e-11
+"Cdc20:Phospho-APC/C mediated degradation of Cyclin A",76,19.1,48,2.11e-12,3.15e-11
+"APC/C:Cdh1 mediated degradation of Cdc20 and other APC/C:Cdh1 targeted proteins in late mitosis/early G1",76,19.1,48,2.11e-12,3.15e-11
+"TCR signaling",65,16.3,43,2.99e-12,4.41e-11
+"Membrane Trafficking",203,51,96,3.3e-12,4.82e-11
+"3' -UTR-mediated translational regulation",201,50.5,95,4.48e-12,6.41e-11
+"L13a-mediated translational silencing of Ceruloplasmin expression",201,50.5,95,4.48e-12,6.41e-11
+"Signaling by FGFR",162,40.7,81,4.67e-12,6.62e-11
+"Signaling by ERBB4",152,38.2,77,6.88e-12,9.64e-11
+"Downstream signal transduction",163,40.9,81,7.06e-12,9.8e-11
+"Interleukin-3, 5 and GM-CSF signaling",51,12.8,36,9.74e-12,1.34e-10
+"Eukaryotic Translation Initiation",209,52.5,97,1.01e-11,1.36e-10
+"Cap-dependent Translation Initiation",209,52.5,97,1.01e-11,1.36e-10
+"Signaling by ERBB2",164,41.2,81,1.06e-11,1.41e-10
+"DNA Replication",102,25.6,57,2.51e-11,3.32e-10
+"Autodegradation of Cdh1 by Cdh1:APC/C",68,17.1,43,2.85e-11,3.74e-10
+"Cell Cycle",508,128,192,3.14e-11,4.07e-10
+"DAP12 signaling",164,41.2,80,3.18e-11,4.09e-10
+"APC/C:Cdc20 mediated degradation of Securin",71,17.8,44,4.5e-11,5.73e-10
+"MAP kinase activation in TLR cascade",55,13.8,37,4.77e-11,6.02e-10
+"Regulation of actin dynamics for phagocytic cup formation",62,15.6,40,5.66e-11,7.08e-10
+"Hemostasis",511,128,192,5.72e-11,7.1e-10
+"Axon guidance",292,73.3,123,5.93e-11,7.29e-10
+"Ribosomal scanning and start codon recognition",91,22.9,52,6.13e-11,7.47e-10
+"RIG-I/MDA5 mediated induction of IFN-alpha/beta pathways",67,16.8,42,7.33e-11,8.86e-10
+"Gene Expression",1090,273,359,7.56e-11,9.06e-10
+"Translation initiation complex formation",92,23.1,52,1.07e-10,1.27e-09
+"Activation of the mRNA upon binding of the cap-binding complex and eIFs, and subsequent binding to 43S",93,23.4,52,1.84e-10,2.17e-09
+"Mitotic M-M/G1 phases",266,66.8,113,2e-10,2.34e-09

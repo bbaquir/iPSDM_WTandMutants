@@ -1,0 +1,58 @@
+"","Pathway","Total.x","Expected.x","Hits.x","P.Value.x","FDR.x","Total.y","Expected.y","Hits.y","P.Value.y","FDR.y"
+"1","Activated TLR4 signalling",100,25.1,70,2.58e-21,3.28e-19,100,11.9,56,8.94e-27,4.18e-24
+"2","Activation of NF-kappaB in B Cells",66,16.6,49,5.42e-17,3.61e-15,66,7.86,27,1.85e-09,6.99e-08
+"3","Adaptive Immune System",654,164,299,9.79e-34,6.86e-31,654,77.9,157,4.58e-20,5.84e-18
+"4","Antigen processing: Ubiquitination & Proteasome degradation",224,56.3,105,6.18e-13,1.03e-11,224,26.7,63,1.72e-11,8.3e-10
+"5","Apoptosis",158,39.7,108,6.64e-31,2.33e-28,158,18.8,44,2.98e-08,8.2e-07
+"6","Axon guidance",292,73.3,123,5.93e-11,7.29e-10,292,34.8,59,2.22e-05,0.000268
+"7","Class I MHC mediated antigen processing & presentation",267,67.1,124,1.05e-14,2.64e-13,267,31.8,72,5.26e-12,2.73e-10
+"8","Cytokine Signaling in Immune system",286,71.8,163,8.07e-32,3.77e-29,286,34.1,96,4.4e-23,7.7e-21
+"9","DAP12 signaling",164,41.2,80,3.18e-11,4.09e-10,164,19.5,42,7.7e-07,1.4e-05
+"10","Developmental Biology",417,105,170,3.01e-13,5.35e-12,417,49.7,84,4.23e-07,8.85e-06
+"11","Disease",945,237,368,1.93e-24,3.39e-22,945,113,166,2.08e-08,6.07e-07
+"12","Downstream signal transduction",163,40.9,81,7.06e-12,9.8e-11,163,19.4,44,8.15e-08,2.08e-06
+"13","Downstream Signaling Events Of B Cell Receptor (BCR)",173,43.5,100,2.11e-20,2.28e-18,173,20.6,52,7.53e-11,3.41e-09
+"14","Fcgamma receptor (FCGR) dependent phagocytosis",86,21.6,56,4.13e-15,1.21e-13,86,10.2,28,3.13e-07,6.85e-06
+"15","Hemostasis",511,128,192,5.72e-11,7.1e-10,511,60.8,97,9.31e-07,1.59e-05
+"16","HIV Infection",214,53.7,108,4.74e-16,1.95e-14,214,25.5,47,1.7e-05,0.000217
+"17","Host Interactions of HIV factors",141,35.4,82,3.8e-17,2.66e-15,141,16.8,39,2.24e-07,5.07e-06
+"18","Immune System",1140,286,516,6.14e-61,8.61e-58,1140,135,275,3.53e-38,4.95e-35
+"19","Innate Immune System",521,131,246,3.57e-30,1e-27,521,62,140,1.02e-22,1.58e-20
+"20","Interferon Signaling",173,43.5,86,1.52e-12,2.39e-11,173,20.6,45,1.9e-07,4.44e-06
+"21","Interleukin-1 signaling",45,11.3,36,1.41e-14,3.29e-13,45,5.36,27,1.54e-14,8.98e-13
+"22","Interleukin-3, 5 and GM-CSF signaling",51,12.8,36,9.74e-12,1.34e-10,51,6.07,19,2.61e-06,3.98e-05
+"23","MAP kinase activation in TLR cascade",55,13.8,37,4.77e-11,6.02e-10,55,6.55,22,9.66e-08,2.37e-06
+"24","Membrane Trafficking",203,51,96,3.3e-12,4.82e-11,203,24.2,47,3.79e-06,5.53e-05
+"25","MyD88 cascade initiated on plasma membrane",74,18.6,50,1.35e-14,3.21e-13,74,8.81,37,6.68e-16,6.24e-14
+"26","MyD88 dependent cascade initiated on endosome",77,19.3,53,6.23e-16,2.36e-14,77,9.17,37,3.47e-15,2.64e-13
+"27","MyD88-independent cascade",88,22.1,60,1.47e-17,1.21e-15,88,10.5,50,2.1e-24,4.59e-22
+"28","MyD88:Mal cascade initiated on plasma membrane",81,20.3,56,6.7e-17,3.61e-15,81,9.64,38,3.95e-15,2.64e-13
+"29","NGF signalling via TRKA from the plasma membrane",207,52,100,2.17e-13,4e-12,207,24.6,51,1.89e-07,4.44e-06
+"30","Regulation of actin dynamics for phagocytic cup formation",62,15.6,40,5.66e-11,7.08e-10,62,7.38,20,1.79e-05,0.000224
+"31","Regulation of mRNA Stability by Proteins that Bind AU-rich Elements",88,22.1,57,3.33e-15,1.04e-13,88,10.5,27,1.9e-06,3.09e-05
+"32","RIG-I/MDA5 mediated induction of IFN-alpha/beta pathways",67,16.8,42,7.33e-11,8.86e-10,67,7.98,39,8.47e-20,9.9e-18
+"33","Signaling by EGFR",179,45,92,1.84e-14,4.03e-13,179,21.3,48,2.61e-08,7.46e-07
+"34","Signaling by EGFR in Cancer",181,45.5,94,4.04e-15,1.21e-13,181,21.6,50,4.48e-09,1.61e-07
+"35","Signaling by ERBB2",164,41.2,81,1.06e-11,1.41e-10,164,19.5,45,3.39e-08,8.96e-07
+"36","Signaling by ERBB4",152,38.2,77,6.88e-12,9.64e-11,152,18.1,44,8.24e-09,2.62e-07
+"37","Signaling by FGFR",162,40.7,81,4.67e-12,6.62e-11,162,19.3,46,7.35e-09,2.4e-07
+"38","Signaling by FGFR in disease",178,44.7,88,1.23e-12,1.96e-11,178,21.2,50,2.41e-09,8.88e-08
+"39","Signaling by Interleukins",116,29.1,84,4.98e-27,1.16e-24,116,13.8,54,8.16e-21,1.14e-18
+"40","Signaling by SCF-KIT",142,35.7,75,8.56e-13,1.4e-11,142,16.9,41,2.91e-08,8.16e-07
+"41","Signaling by TGF-beta Receptor Complex",70,17.6,46,7.41e-13,1.22e-11,70,8.33,23,2.98e-06,4.4e-05
+"42","Signaling by the B Cell Receptor (BCR)",199,50,118,2.93e-25,5.87e-23,199,23.7,60,2.11e-12,1.18e-10
+"43","Signalling by NGF",290,72.8,136,1.8e-16,7.87e-15,290,34.5,73,1.29e-10,5.48e-09
+"44","TCR signaling",65,16.3,43,2.99e-12,4.41e-11,65,7.74,25,3.28e-08,8.84e-07
+"45","Toll Like Receptor 10 (TLR10) Cascade",74,18.6,50,1.35e-14,3.21e-13,74,8.81,37,6.68e-16,6.24e-14
+"46","Toll Like Receptor 2 (TLR2) Cascade",81,20.3,56,6.7e-17,3.61e-15,81,9.64,38,3.95e-15,2.64e-13
+"47","Toll Like Receptor 3 (TLR3) Cascade",88,22.1,60,1.47e-17,1.21e-15,88,10.5,50,2.1e-24,4.59e-22
+"48","Toll Like Receptor 4 (TLR4) Cascade",103,25.9,73,1.06e-22,1.49e-20,103,12.3,57,7.14e-27,4.18e-24
+"49","Toll Like Receptor 5 (TLR5) Cascade",74,18.6,50,1.35e-14,3.21e-13,74,8.81,37,6.68e-16,6.24e-14
+"50","Toll Like Receptor 7/8 (TLR7/8) Cascade",77,19.3,53,6.23e-16,2.36e-14,77,9.17,37,3.47e-15,2.64e-13
+"51","Toll Like Receptor 9 (TLR9) Cascade",79,19.8,53,3.41e-15,1.04e-13,79,9.41,37,9.81e-15,6.25e-13
+"52","Toll Like Receptor TLR1:TLR2 Cascade",81,20.3,56,6.7e-17,3.61e-15,81,9.64,38,3.95e-15,2.64e-13
+"53","Toll Like Receptor TLR6:TLR2 Cascade",81,20.3,56,6.7e-17,3.61e-15,81,9.64,38,3.95e-15,2.64e-13
+"54","Toll-Like Receptors Cascades",123,30.9,83,2.22e-23,3.46e-21,123,14.6,60,2.29e-24,4.59e-22
+"55","TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation",76,19.1,52,1.75e-15,5.57e-14,76,9.05,36,1.46e-14,8.88e-13
+"56","TRAF6 Mediated Induction of proinflammatory cytokines",62,15.6,42,1.6e-12,2.46e-11,62,7.38,29,8.32e-12,4.17e-10
+"57","TRIF-mediated TLR3/TLR4 signaling",87,21.9,60,6.15e-18,6.16e-16,87,10.4,50,1.02e-24,3.57e-22

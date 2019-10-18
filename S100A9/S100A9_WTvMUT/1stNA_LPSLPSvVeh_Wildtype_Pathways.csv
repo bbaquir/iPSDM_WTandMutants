@@ -1,0 +1,121 @@
+"Pathway","Total","Expected","Hits","P.Value","FDR"
+"Immune System",1140,135,275,3.53e-38,4.95e-35
+"Toll Like Receptor 4 (TLR4) Cascade",103,12.3,57,7.14e-27,4.18e-24
+"Activated TLR4 signalling",100,11.9,56,8.94e-27,4.18e-24
+"TRIF-mediated TLR3/TLR4 signaling ",87,10.4,50,1.02e-24,3.57e-22
+"MyD88-independent cascade ",88,10.5,50,2.1e-24,4.59e-22
+"Toll Like Receptor 3 (TLR3) Cascade",88,10.5,50,2.1e-24,4.59e-22
+"Toll-Like Receptors Cascades",123,14.6,60,2.29e-24,4.59e-22
+"Cytokine Signaling in Immune system",286,34.1,96,4.4e-23,7.7e-21
+"Innate Immune System",521,62,140,1.02e-22,1.58e-20
+"Signaling by Interleukins",116,13.8,54,8.16e-21,1.14e-18
+"Adaptive Immune System",654,77.9,157,4.58e-20,5.84e-18
+"RIG-I/MDA5 mediated induction of IFN-alpha/beta pathways",67,7.98,39,8.47e-20,9.9e-18
+"Toll Like Receptor 10 (TLR10) Cascade",74,8.81,37,6.68e-16,6.24e-14
+"Toll Like Receptor 5 (TLR5) Cascade",74,8.81,37,6.68e-16,6.24e-14
+"MyD88 cascade initiated on plasma membrane",74,8.81,37,6.68e-16,6.24e-14
+"Toll Like Receptor 7/8 (TLR7/8) Cascade",77,9.17,37,3.47e-15,2.64e-13
+"MyD88 dependent cascade initiated on endosome",77,9.17,37,3.47e-15,2.64e-13
+"MyD88:Mal cascade initiated on plasma membrane",81,9.64,38,3.95e-15,2.64e-13
+"Toll Like Receptor TLR1:TLR2 Cascade",81,9.64,38,3.95e-15,2.64e-13
+"Toll Like Receptor TLR6:TLR2 Cascade",81,9.64,38,3.95e-15,2.64e-13
+"Toll Like Receptor 2 (TLR2) Cascade",81,9.64,38,3.95e-15,2.64e-13
+"Toll Like Receptor 9 (TLR9) Cascade",79,9.41,37,9.81e-15,6.25e-13
+"TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation",76,9.05,36,1.46e-14,8.88e-13
+"Interleukin-1 signaling",45,5.36,27,1.54e-14,8.98e-13
+"Signaling by the B Cell Receptor (BCR)",199,23.7,60,2.11e-12,1.18e-10
+"Negative regulators of RIG-I/MDA5 signaling",33,3.93,21,2.67e-12,1.44e-10
+"Class I MHC mediated antigen processing & presentation",267,31.8,72,5.26e-12,2.73e-10
+"TRAF6 Mediated Induction of proinflammatory cytokines",62,7.38,29,8.32e-12,4.17e-10
+"Antigen processing: Ubiquitination & Proteasome degradation",224,26.7,63,1.72e-11,8.3e-10
+"IKK complex recruitment mediated by RIP1",25,2.98,17,7.09e-11,3.31e-09
+"Downstream Signaling Events Of B Cell Receptor (BCR)",173,20.6,52,7.53e-11,3.41e-09
+"DAI mediated induction of type I IFNs",13,1.55,12,8.74e-11,3.83e-09
+"Signalling by NGF",290,34.5,73,1.29e-10,5.48e-09
+"TRAF6 mediated NF-kB activation",16,1.91,13,3.51e-10,1.45e-08
+"TAK1 activates NFkB by phosphorylation and activation of IKKs complex",22,2.62,15,9.22e-10,3.69e-08
+"Platelet activation, signaling and aggregation",220,26.2,58,1.77e-09,6.89e-08
+"Activation of NF-kappaB in B Cells",66,7.86,27,1.85e-09,6.99e-08
+"Signaling by FGFR in disease",178,21.2,50,2.41e-09,8.88e-08
+"Signaling by EGFR in Cancer",181,21.6,50,4.48e-09,1.61e-07
+"RIP-mediated NFkB activation via DAI",11,1.31,10,5.35e-09,1.88e-07
+"mRNA Splicing",115,13.7,37,5.66e-09,1.89e-07
+"mRNA Splicing - Major Pathway",115,13.7,37,5.66e-09,1.89e-07
+"Signaling by FGFR",162,19.3,46,7.35e-09,2.4e-07
+"Signaling by ERBB4",152,18.1,44,8.24e-09,2.62e-07
+"NOD1/2 Signaling Pathway",38,4.52,19,8.68e-09,2.71e-07
+"Cytosolic sensors of pathogen-associated DNA ",19,2.26,13,1.2e-08,3.67e-07
+"Processing of Capped Intron-Containing Pre-mRNA",119,14.2,37,1.6e-08,4.78e-07
+"Disease",945,113,166,2.08e-08,6.07e-07
+"Signaling by EGFR",179,21.3,48,2.61e-08,7.46e-07
+"Signaling by SCF-KIT",142,16.9,41,2.91e-08,8.16e-07
+"Apoptosis",158,18.8,44,2.98e-08,8.2e-07
+"TCR signaling",65,7.74,25,3.28e-08,8.84e-07
+"Signaling by ERBB2",164,19.5,45,3.39e-08,8.96e-07
+"SHC1 events in EGFR signaling",15,1.79,11,5.55e-08,1.44e-06
+"Downstream signal transduction",163,19.4,44,8.15e-08,2.08e-06
+"Nucleotide-binding domain, leucine rich repeat containing receptor (NLR) signaling pathways",55,6.55,22,9.66e-08,2.37e-06
+"MAP kinase activation in TLR cascade",55,6.55,22,9.66e-08,2.37e-06
+"mRNA Processing",140,16.7,39,1.83e-07,4.41e-06
+"NGF signalling via TRKA from the plasma membrane",207,24.6,51,1.89e-07,4.44e-06
+"Interferon Signaling",173,20.6,45,1.9e-07,4.44e-06
+"TRIF-mediated programmed cell death",11,1.31,9,2.03e-07,4.67e-06
+"Host Interactions of HIV factors",141,16.8,39,2.24e-07,5.07e-06
+"Translocation of GLUT4 to the Plasma Membrane",71,8.45,25,2.48e-07,5.51e-06
+"Fcgamma receptor (FCGR) dependent phagocytosis",86,10.2,28,3.13e-07,6.85e-06
+"GRB2 events in EGFR signaling",14,1.67,10,3.47e-07,7.37e-06
+"TRAF3-dependent IRF activation pathway",14,1.67,10,3.47e-07,7.37e-06
+"Developmental Biology",417,49.7,84,4.23e-07,8.85e-06
+"Signaling by NOTCH1 t(7;9)(NOTCH1:M1580_K2555) Translocation Mutant",74,8.81,25,6.12e-07,1.16e-05
+"Signaling by NOTCH1 in Cancer",74,8.81,25,6.12e-07,1.16e-05
+"Signaling by NOTCH1 PEST Domain Mutants in Cancer",74,8.81,25,6.12e-07,1.16e-05
+"FBXW7 Mutants and NOTCH1 in Cancer",74,8.81,25,6.12e-07,1.16e-05
+"Signaling by NOTCH1 HD Domain Mutants in Cancer",74,8.81,25,6.12e-07,1.16e-05
+"Signaling by NOTCH1 HD+PEST Domain Mutants in Cancer",74,8.81,25,6.12e-07,1.16e-05
+"Signaling by NOTCH1",74,8.81,25,6.12e-07,1.16e-05
+"Cytosolic tRNA aminoacylation",24,2.86,13,6.24e-07,1.17e-05
+"NF-kB activation through FADD/RIP-1 pathway mediated by caspase-8 and -10",12,1.43,9,7.26e-07,1.34e-05
+"DAP12 signaling",164,19.5,42,7.7e-07,1.4e-05
+"Constitutive Signaling by NOTCH1 HD+PEST Domain Mutants",52,6.19,20,7.86e-07,1.41e-05
+"Downstream TCR signaling",48,5.72,19,8.83e-07,1.57e-05
+"SHC-related events triggered by IGF1R",18,2.14,11,9.2e-07,1.59e-05
+"SHC-mediated signalling",15,1.79,10,9.3e-07,1.59e-05
+"Hemostasis",511,60.8,97,9.31e-07,1.59e-05
+"Downstream signaling of activated FGFR",150,17.9,39,1.27e-06,2.15e-05
+"Signalling to ERKs",37,4.41,16,1.6e-06,2.67e-05
+"Constitutive Signaling by NOTCH1 PEST Domain Mutants",59,7.02,21,1.86e-06,3.06e-05
+"Regulation of mRNA Stability by Proteins that Bind AU-rich Elements",88,10.5,27,1.9e-06,3.09e-05
+"p75NTR signals via NF-kB",16,1.91,10,2.21e-06,3.45e-05
+"IRAK1 recruits IKK complex upon TLR7/8 or 9 stimulation",16,1.91,10,2.21e-06,3.45e-05
+"Activation of IRF3/IRF7 mediated by TBK1/IKK epsilon",16,1.91,10,2.21e-06,3.45e-05
+"IRAK1 recruits IKK complex",16,1.91,10,2.21e-06,3.45e-05
+"Interleukin-2 signaling",42,5,17,2.31e-06,3.56e-05
+"Interleukin-3, 5 and GM-CSF signaling",51,6.07,19,2.61e-06,3.98e-05
+"Signaling by PDGF",189,22.5,45,2.75e-06,4.14e-05
+"Signaling by TGF-beta Receptor Complex",70,8.33,23,2.98e-06,4.4e-05
+"Signaling by NOTCH",95,11.3,28,2.98e-06,4.4e-05
+"Membrane Trafficking",203,24.2,47,3.79e-06,5.53e-05
+"Prolonged ERK activation events",20,2.38,11,3.87e-06,5.59e-05
+"SOS-mediated signalling",14,1.67,9,5.29e-06,7.56e-05
+"Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R)",94,11.2,27,7.65e-06,0.000107
+"IGF1R signaling cascade",94,11.2,27,7.65e-06,0.000107
+"SHC1 events in ERBB2 signaling",25,2.98,12,8.87e-06,0.000123
+"Intrinsic Pathway for Apoptosis",37,4.41,15,8.94e-06,0.000123
+"Insulin receptor signalling cascade",95,11.3,27,9.5e-06,0.000129
+"SHC-related events",18,2.14,10,9.66e-06,0.000129
+"Frs2-mediated activation",18,2.14,10,9.66e-06,0.000129
+"IRS-related events triggered by IGF1R",91,10.8,26,1.25e-05,0.000165
+"Regulation of signaling by CBL",22,2.62,11,1.3e-05,0.00017
+"DAP12 interactions",182,21.7,42,1.36e-05,0.000176
+"IRS-mediated signalling",87,10.4,25,1.64e-05,0.000211
+"HIV Infection",214,25.5,47,1.7e-05,0.000217
+"TNF signaling",7,0.833,6,1.76e-05,0.000223
+"Regulation of actin dynamics for phagocytic cup formation",62,7.38,20,1.79e-05,0.000224
+"Signaling by constitutively active EGFR",19,2.26,10,1.82e-05,0.000226
+"Axon guidance",292,34.8,59,2.22e-05,0.000268
+"Downregulation of SMAD2/3:SMAD4 transcriptional activity",23,2.74,11,2.22e-05,0.000268
+"GRB2 events in ERBB2 signaling",23,2.74,11,2.22e-05,0.000268
+"Interferon alpha/beta signaling",68,8.1,21,2.35e-05,0.00028
+"Signalling to RAS",27,3.21,12,2.36e-05,0.00028
+"ARMS-mediated activation",16,1.91,9,2.42e-05,0.00028
+"Spry regulation of FGF signaling",16,1.91,9,2.42e-05,0.00028
